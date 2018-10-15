@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { observer, inject } from 'mobx-react'; //This function makes our components observable
 import TodoList from '../components/TodoList';
-import logo from '../logo.svg';
+import logo from '../mobx-logo.svg';
 import '../App.css';
 
 
